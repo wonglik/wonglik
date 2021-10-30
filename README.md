@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wonglik
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... React, Vue
 - 🌱 I’m currently learning ... PHP, Netbeans
 - 📫 How to reach me ... through email: wonglik.edu@gmail.com
 

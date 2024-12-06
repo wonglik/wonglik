@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wonglik
 - 👀 I’m interested in ... new phone technology 
-- 🌱 I’m currently learning ... PHP, Netbeans
+- 🌱 I’m currently learning ... PHP, ASP.net C#
 - 📫 How to reach me ... through email: wonglik.edu@gmail.com
 
 <!---
